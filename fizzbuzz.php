@@ -1,6 +1,6 @@
 <?php
 /**
-* The FizzBuss Class
+* The FizzBuzz Class
 */
 class FizzBuzz
 {
